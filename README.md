@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there , I´m Nicolas Morales 👋, I am a nurse currently living in a narrow and quite beautiful country at the end of the world called Chile. Passionate about technology since childhood and recently I realized how powerful it would be to combine both worlds so I am currently entering the world of programming to be a contribution in the world of technology and health
+
+
+
+- 🌱 I’m currently learning Ruby on rails
+- 👯 I would love to work for a health startup or a technology company related to the area.
 
 <!--
 **NmFuenzalida/NmFuenzalida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
