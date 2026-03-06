@@ -3,11 +3,11 @@
 ## 🚀 Sobre mí
 Enfermero chileno apasionado por la tecnología, en transición hacia el desarrollo de software y ciencias de datos. Busco combinar mi experiencia en salud con la programación para crear soluciones que impacten positivamente en el sector salud y tecnología.
 
-- 🏥 **Profesión actual:** Enfermero
+- 🏥 **Profesión actual:** Enfermero estudiando Ing en Ciencias de Datos.
 - 🇨🇱 **Ubicación:** Chile - "un país estrecho y hermoso al final del mundo"
-- 👯 **Objetivo:** Trabajar en una startup de salud o empresa de tecnología no necesariamente relacionada con el área de la salud
-- 💬 **Pregúntame sobre:** Salud, tecnología médica, programación
-- ⚡ **Misión:** Ser una contribución en el mundo de la tecnología y la salud
+-  **Objetivo:** Trabajar en una startup de salud o empresa de tecnología no necesariamente relacionada con el área de la salud
+-  **Pregúntame sobre:** Salud, tecnología médica, programación
+-  **Misión:** Ser una contribución en el mundo de la tecnología y la salud
 
 ## 🛠️ Tecnologías y Herramientas
 
