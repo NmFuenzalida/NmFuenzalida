@@ -23,6 +23,7 @@ Fanático de la música, el deporte y compartir con mi familia y amigos.
 |---|---|---|
 | [Brújula Bot](https://github.com/NmFuenzalida/brujula-bot#readme) | Asistente personal en Telegram que convierte texto y voz en recordatorios, registra gastos y envía resúmenes de tareas y clima | Python · Telegram · Groq · PostgreSQL |
 | [Lector de patentes chilenas](https://github.com/NmFuenzalida/lector-patentes-chile#readme) | Prototipo que detecta y lee patentes desde una cámara IP y permite consultar el historial de paso de un vehículo | Python · OpenCV · Roboflow · PaddleOCR · FastAPI · SQLite |
+| [Áridos Pro](https://github.com/NmFuenzalida/aridos-pro#readme) | Prototipo para registrar despachos de áridos y detectar desviaciones en el consumo de combustible de cada camión | HTML · Tailwind CSS · FastAPI · PostgreSQL |
 | [Brújula · Gestión de camas](https://nmfuenzalida.github.io/brujula-camas/) · [Código](https://github.com/NmFuenzalida/brujula-camas) | Plano 3D para explorar la disponibilidad de camas y simular traslados entre dos unidades ficticias | React · TypeScript · CSS 3D |
 | [Material didáctico UPC Quirúrgica](https://nmfuenzalida.github.io/MaterialDidacticoUPCQuirurgica/) | Guías clínicas web para el equipo: ventilación mecánica, drogas vasoactivas, sedoanalgesia, procedimientos | HTML · JS |
 | [Sistema de vacaciones UPC](https://github.com/NmFuenzalida/sistema-vacaciones-upc) | Gestión de vacaciones del personal de la unidad | Streamlit · Supabase |
