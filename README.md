@@ -1,12 +1,14 @@
 # Nicolás Morales Fuenzalida
 
 Enfermero de paciente crítico (UPC) y estudiante de Ingeniería en Ciencia de Datos 🇨🇱.
-Construyo herramientas para problemas que veo en la práctica clínica: análisis de datos de la unidad,
-visión por computador.
-Aplicaciones que uso yo mismo y que siento que me pueden ser útil.
 
-Fanático de la música, del deporte familia y amigos.
-Fundador de [Alvéolo](https://alveolohealth.com), software health-tech para unidades de paciente crítico.
+Construyo herramientas para resolver problemas que encuentro en mi día a día, tanto en la práctica clínica como fuera de ella. Me interesan la ciencia de datos, el machine learning, la visión por computador y el desarrollo de software.
+
+Disfruto experimentar con nuevas tecnologías, aprender y convertir ideas en aplicaciones que yo mismo utilizaría.
+
+Fundador de **Alvéolo**, software healthtech para unidades de paciente crítico.
+
+Fanático de la música, el deporte y compartir con mi familia y amigos.
 
 [![SoundCloud](https://img.shields.io/badge/SoundCloud-FF5500?style=flat-square&logo=soundcloud&logoColor=white)](https://on.soundcloud.com/g0S1lUJMWacrMe2ZyW)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicol%C3%A1s-morales-fuenzalida/)
