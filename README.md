@@ -31,9 +31,9 @@ Fundador de [Alvéolo](https://alveolohealth.com), software health-tech para uni
 | Proyecto | Qué es | Stack |
 |---|---|---|
 | [Accidentes de tránsito en Chile](https://github.com/NmFuenzalida/dashboard-accidentes-chile) | 19.441 registros (2019-2024): septiembre tiene 39,9 % más fallecidos por Fiestas Patrias. Dashboard con tests de significancia | Python · SciPy · Streamlit · Plotly |
+| [LPP Predict](https://github.com/NmFuenzalida/lpp-predict#demo-con-casos-ficticios) | Prototipo Android que usa una segunda lectura local y correcciones de enfermería para reunir datos de reentrenamiento | Flutter · TensorFlow Lite · Gemma · Supabase |
 <!-- Descomentar cada fila cuando el repo esté público
 | [Football Tactical Vision](https://github.com/NmFuenzalida/vision-futbol) | Detección, tracking y métricas tácticas desde cámara táctica | Python · YOLO · OpenCV |
-| [LPP Predict](https://github.com/NmFuenzalida/lpp-predict) | Clasificación de lesiones por presión con visión por computador | Python · TensorFlow |
 | [Kino](https://github.com/NmFuenzalida/kino) | Investigación cuantitativa de la lotería chilena | Python · pandas |
 | [Incendios Biobío](https://github.com/NmFuenzalida/incendios-biobio) | Monitoreo de incendios forestales con NASA FIRMS | Python · Streamlit · Folium |
 -->
