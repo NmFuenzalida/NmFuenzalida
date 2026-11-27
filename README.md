@@ -2,7 +2,8 @@
 
 Enfermero de paciente crítico (UPC) y estudiante de Ingeniería en Ciencia de Datos 🇨🇱.
 Construyo herramientas para problemas que veo en la práctica clínica: análisis de datos de la unidad,
-visión por computador y aplicaciones que uso yo mismo.
+visión por computador.
+Aplicaciones que uso yo mismo y que siento que me pueden ser útil.
 
 Fundador de [Alvéolo](https://alveolohealth.com), software health-tech para unidades de paciente crítico.
 
