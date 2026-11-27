@@ -43,5 +43,5 @@ Fundador de [Alvéolo](https://alveolohealth.com), software health-tech para uni
 ## 🎓 Formación
 
 - Enfermero, especializado en paciente crítico
-- Ingeniería en Ciencia de Datos (en curso)
+- Ingeniería en Ciencia de Datos (en curso) UNAB, Chile
 - Bootcamp de desarrollo web full stack: Ruby on Rails (2023)
