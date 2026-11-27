@@ -17,6 +17,7 @@ Fundador de [Alvéolo](https://alveolohealth.com), software health-tech para uni
 
 | Proyecto | Qué es | Stack |
 |---|---|---|
+| [Brújula · Gestión de camas](https://nmfuenzalida.github.io/brujula-camas/) · [Código](https://github.com/NmFuenzalida/brujula-camas) | Plano 3D para explorar la disponibilidad de camas y simular traslados entre dos unidades ficticias | React · TypeScript · CSS 3D |
 | [Material didáctico UPC Quirúrgica](https://nmfuenzalida.github.io/MaterialDidacticoUPCQuirurgica/) | Guías clínicas web para el equipo: ventilación mecánica, drogas vasoactivas, sedoanalgesia, procedimientos | HTML · JS |
 | [Sistema de vacaciones UPC](https://github.com/NmFuenzalida/sistema-vacaciones-upc) | Gestión de vacaciones del personal de la unidad | Streamlit · Supabase |
 <!-- Descomentar cada fila cuando el repo esté público
