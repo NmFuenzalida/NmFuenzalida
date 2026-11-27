@@ -5,6 +5,7 @@ Construyo herramientas para problemas que veo en la práctica clínica: análisi
 visión por computador.
 Aplicaciones que uso yo mismo y que siento que me pueden ser útil.
 
+Fanático de la música, del deporte familia y amigos.
 Fundador de [Alvéolo](https://alveolohealth.com), software health-tech para unidades de paciente crítico.
 
 [![SoundCloud](https://img.shields.io/badge/SoundCloud-FF5500?style=flat-square&logo=soundcloud&logoColor=white)](https://on.soundcloud.com/g0S1lUJMWacrMe2ZyW)
