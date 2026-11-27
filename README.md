@@ -7,6 +7,7 @@ Aplicaciones que uso yo mismo y que siento que me pueden ser útil.
 
 Fundador de [Alvéolo](https://alveolohealth.com), software health-tech para unidades de paciente crítico.
 
+[![SoundCloud](https://img.shields.io/badge/SoundCloud-FF5500?style=flat-square&logo=soundcloud&logoColor=white)](https://on.soundcloud.com/g0S1lUJMWacrMe2ZyW)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicol%C3%A1s-morales-fuenzalida/)
 
 **Stack:** Python · pandas · SciPy · Streamlit · Plotly · YOLO / OpenCV · SQL · Supabase · TypeScript / React · Kotlin (Android)
